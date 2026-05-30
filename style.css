@@ -62,7 +62,7 @@ table {
   min-width: 70%;
 }
 tr {
-  background-color:#FF9966;
+  background-color:##f0f0f0;
 }
 tr:nth-child(2n) {
   background-color:linear-gradient（#f9f9f9,#00a0a0);
