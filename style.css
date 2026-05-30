@@ -62,10 +62,10 @@ table {
   min-width: 70%;
 }
 tr {
-  background-color:##f0f0f0;
+  background-color:#fff;
 }
 tr:nth-child(2n) {
-  background-color:linear-gradient（#f9f9f9,#00a0a0);
+  background-color:#f9f9f9;
 }
 th {
   background: var(--theme-color);
